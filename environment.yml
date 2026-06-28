@@ -1,0 +1,9 @@
+name: halc8-pipeline
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pandas>=2.0
+  - numpy>=1.24
+  - biopython>=1.83
+  - requests>=2.28

@@ -1,0 +1,4 @@
+pandas>=2.0
+numpy>=1.24
+biopython>=1.83
+requests>=2.28

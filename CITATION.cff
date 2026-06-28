@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "HalC8 Detection Pipeline v2.2"
+message: "If you use this software, please cite this repository."
+type: software
+authors:
+  - given-names: Paola
+    family-names: Aguirre
+  - given-names: Rosa M.
+    family-names: Martínez-Espinosa
+repository-code: "https://github.com/koalaresearch/Halocin-pipeline"
+url: "https://github.com/koalaresearch/Halocin-pipeline"
+license: MIT
+version: "2.2"
+keywords:
+  - HalC8
+  - halocins
+  - haloarchaea
+  - profile HMM
+  - antimicrobial peptide prioritization
