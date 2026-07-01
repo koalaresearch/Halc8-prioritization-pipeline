@@ -30,3 +30,8 @@ Input CSV files require at least two columns: `accession` and `sequence`.
 ## License
 
 See `LICENSE`.
+
+## Data provenance
+
+The 2021 prior-label table used for calibration-frame provenance is archived at Zenodo: https://doi.org/10.5281/zenodo.21116990. This table is used as a historical prior-label framework, not as an experimentally validated benchmark or independent external validation set.
+
