@@ -35,3 +35,7 @@ See `LICENSE`.
 
 The 2021 prior-label table used for calibration-frame provenance is archived at Zenodo: https://doi.org/10.5281/zenodo.21116990. This table is used as a historical prior-label framework, not as an experimentally validated benchmark or independent external validation set.
 
+## Frozen HMM profile
+
+The frozen HalC8 v2.2 custom HMM profile used for family-level retrieval is included in `hmm/HalC8_custom_v2.2.hmm`; its SHA-256 checksum is provided in `hmm/HalC8_custom_v2.2.hmm.sha256`.
+
